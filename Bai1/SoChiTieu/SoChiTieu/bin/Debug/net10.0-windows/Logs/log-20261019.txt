@@ -1,0 +1,6 @@
+2026-10-19 09:44:26.296 +07:00 [INF] Ứng dụng Sổ chi tiêu cá nhân khởi động.
+2026-10-19 09:47:59.237 +07:00 [INF] Ứng dụng Sổ chi tiêu cá nhân khởi động.
+2026-10-19 09:48:15.938 +07:00 [INF] Xóa khoản chi thành công [MaCT: 2]: Nội dung='Xăng xe'
+2026-10-19 09:48:42.901 +07:00 [INF] Sửa khoản chi thành công [MaCT: 1]: Ngày="2026-10-01", Nội dung='Cơm trưa', Loại chi='Ăn uống', Số tiền=35,000 đ, Ghi chú='null'
+2026-10-19 09:49:01.209 +07:00 [INF] Sửa khoản chi thành công [MaCT: 1]: Ngày="2026-10-01", Nội dung='Cơm trưa', Loại chi='Ăn uống', Số tiền=32,000 đ, Ghi chú='null'
+2026-10-19 09:49:43.917 +07:00 [INF] Ứng dụng Sổ chi tiêu cá nhân kết thúc.
