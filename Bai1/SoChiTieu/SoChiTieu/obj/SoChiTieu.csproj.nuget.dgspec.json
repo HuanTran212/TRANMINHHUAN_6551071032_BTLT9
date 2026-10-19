@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\NguyenTienHung_6551071039_BTLT9\\SoChiTieu\\SoChiTieu\\SoChiTieu.csproj": {}
+    "D:\\Project\\TRANMINHHUAN_6551071032_BTLT9\\Bai1\\SoChiTieu\\SoChiTieu\\SoChiTieu.csproj": {}
   },
   "projects": {
-    "E:\\Code\\NguyenTienHung_6551071039_BTLT9\\SoChiTieu\\SoChiTieu\\SoChiTieu.csproj": {
+    "D:\\Project\\TRANMINHHUAN_6551071032_BTLT9\\Bai1\\SoChiTieu\\SoChiTieu\\SoChiTieu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\NguyenTienHung_6551071039_BTLT9\\SoChiTieu\\SoChiTieu\\SoChiTieu.csproj",
+        "projectUniqueName": "D:\\Project\\TRANMINHHUAN_6551071032_BTLT9\\Bai1\\SoChiTieu\\SoChiTieu\\SoChiTieu.csproj",
         "projectName": "SoChiTieu",
-        "projectPath": "E:\\Code\\NguyenTienHung_6551071039_BTLT9\\SoChiTieu\\SoChiTieu\\SoChiTieu.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\NguyenTienHung_6551071039_BTLT9\\SoChiTieu\\SoChiTieu\\obj\\",
+        "projectPath": "D:\\Project\\TRANMINHHUAN_6551071032_BTLT9\\Bai1\\SoChiTieu\\SoChiTieu\\SoChiTieu.csproj",
+        "packagesPath": "C:\\Users\\HuanTran212\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\TRANMINHHUAN_6551071032_BTLT9\\Bai1\\SoChiTieu\\SoChiTieu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HuanTran212\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

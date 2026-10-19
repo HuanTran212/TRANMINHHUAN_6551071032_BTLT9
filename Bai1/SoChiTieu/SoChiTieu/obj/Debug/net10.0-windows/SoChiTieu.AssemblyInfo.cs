@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoChiTieu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13bd2ad67d4ca56c09be14df97619972a02d71ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42400c987422311d6e6d876fa928e5b230e06282")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoChiTieu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoChiTieu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
